@@ -15,9 +15,9 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <body>
-        <div>
+        <div className="app">
+          <AppHeader/>
           <main>
-            <AppHeader/>
             <main className="app-main">
               {children}
             </main>

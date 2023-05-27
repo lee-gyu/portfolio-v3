@@ -1,0 +1,14 @@
+.app {
+  @apply grid
+    mx-auto
+    w-full
+    tablet:max-w-tablet
+    desktop:max-w-desktop;
+
+  grid-template-rows: theme("height.app-header") auto;
+}
+
+.app-header {
+  @apply border-b
+    border-gray-300;
+}

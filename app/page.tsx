@@ -1,5 +1,5 @@
 export default function MainPage() {
   return (
-    <div>Hello World!</div>
+    <div>Body</div>
   )
 }

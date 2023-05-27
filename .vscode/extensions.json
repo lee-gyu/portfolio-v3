@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "mrmlnc.vscode-scss",
+    "sibiraj-s.vscode-scss-formatter",
+    "dbaeumer.vscode-eslint",
+    "clinyong.vscode-css-modules",
+    "editorconfig.editorconfig"
+  ]
+}
