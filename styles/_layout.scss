@@ -4,11 +4,13 @@
     w-full
     tablet:max-w-tablet
     desktop:max-w-desktop;
-
-  grid-template-rows: theme("height.app-header") auto;
 }
 
 .app-header {
-  @apply border-b
-    border-gray-300;
+  @apply flex
+    items-center
+    px-2
+    py-1.5
+    text-white
+    gap-2;
 }

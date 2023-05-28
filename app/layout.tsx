@@ -14,13 +14,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
+      <head>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+      </head>
       <body>
         <div className="app">
           <AppHeader/>
-          <main>
-            <main className="app-main">
-              {children}
-            </main>
+          <main className="app-main">
+            {children}
           </main>
         </div>
         </body>
