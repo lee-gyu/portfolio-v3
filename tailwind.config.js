@@ -25,9 +25,7 @@ const tailwindConfig = {
       maxWidth: {
         ...screenWidth
       },
-      height: {
-        "app-header": "48px"
-      }
+      height: { }
     }
   },
   plugins: [
