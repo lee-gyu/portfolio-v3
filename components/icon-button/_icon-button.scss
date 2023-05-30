@@ -1,0 +1,8 @@
+.icon-button {
+  @apply transition-opacity
+    hover:opacity-80;
+
+  &:active {
+    @apply opacity-50;
+  }
+}

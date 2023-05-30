@@ -1,0 +1,604 @@
+{
+  "fullName": "Lee Gyu Cheol",
+  "job": "Web F/E Engineer",
+  "keywordList": [
+    "Application",
+    "Business Solution",
+    "Better Life"
+  ],
+  "intro": "더 나은 것들을 만들기 위해 S/W 엔지니어가 되었습니다.\n비즈니스 요구사항에 맞는 S/W 설계와 엔지니어링을 고민합니다.\n사람을 위한 S/W 개발이 직무의 핵심이라고 생각합니다.",
+  "personality": [
+    {
+      "order": 1,
+      "label": "미니멀",
+      "description": ""
+    },
+    {
+      "order": 2,
+      "label": "진취적",
+      "description": ""
+    },
+    {
+      "order": 3,
+      "label": "이타적",
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Technology",
+      "level": 5
+    },
+    {
+      "category": "System",
+      "level": 5
+    },
+    {
+      "category": "People",
+      "level": 5
+    },
+    {
+      "category": "Process",
+      "level": 5
+    },
+    {
+      "category": "Influence",
+      "level": 5
+    }
+  ],
+  "sideProject": [],
+  "career": [
+    {
+      "order": 1,
+      "logoSrc": "/svg/samsung-logo.svg",
+      "logoAlt": "samsung-logo",
+      "company": "삼성전자",
+      "department": "GTC 인사그룹",
+      "position": "G2 사원",
+      "joinDate": "2012.10",
+      "exitDate": "2015.8",
+      "tag": [
+        {
+          "order": 1,
+          "text": "IT 교육"
+        },
+        {
+          "order": 2,
+          "text": "HR"
+        }
+      ],
+      "projects": [
+        {
+          "order": 1,
+          "key": "samsung-hr-project-1",
+          "title": "'13년 독일 국제기능올림픽 IT 직종 국가대표",
+          "subTitle": "1위 금메달 입상 및 동탑산업훈장 수상",
+          "date": "2012.10 ~ 2013.7",
+          "keywords": [
+            "Training",
+            "Competition"
+          ],
+          "role": "국가대표 선수",
+          "team": [
+            "감독",
+            "코치",
+            "국가대표 선수"
+          ],
+          "teamMember": null,
+          "taskList": [
+            "국제대회 과제 개발 환경 및 입상 전략 분석",
+            "대회용 프로그래밍 패턴 작성 및 최적화",
+            "차기 국가대표를 위한 학습 내용 문서화"
+          ],
+          "result": "대한민국 IT직종 최초 금메달 입상",
+          "refList": [
+            {
+              "link": "https://news.samsung.com/kr/4590",
+              "title": "삼성그룹 뉴스룸 기사"
+            },
+            {
+              "link": "https://results.worldskills.org/results?event=9&offset=0&skill=345&base_skill=221",
+              "title": "국제대회 결과"
+            },
+            {
+              "link": "https://www.flickr.com/photos/worldskills/9235939100/in/album-72157634532467264/",
+              "title": "수상자 사진"
+            }
+          ],
+          "imgList": []
+        },
+        {
+          "order": 2,
+          "key": "samsung-hr-project-2",
+          "title": "'15년 브라질 국제기능올림픽 IT 직종 국가대표 코치",
+          "subTitle": "지도 선수 2위 은메달, 3위 동메달 수상",
+          "date": "2013.8 ~ 2015.8",
+          "keywords": [
+            "Training Coach"
+          ],
+          "role": "코치",
+          "team": [
+            "감독",
+            "코치",
+            "한국 국가대표",
+            "베트남 국가대표"
+          ],
+          "teamMember": null,
+          "taskList": [
+            "지속적 평가/피드백을 통한 주니어 육성",
+            "월별 모의 IT 과제 개발 및 평가"
+          ],
+          "result": "한국 선수 은메달, 베트남 선수 동메달 입상",
+          "refList": [
+            {
+              "link": "https://www.yna.co.kr/view/AKR20150818116700003",
+              "title": "삼성그룹 뉴스룸 기사"
+            }
+          ],
+          "imgList": []
+        },
+        {
+          "order": 3,
+          "key": "samsung-hr-project-3",
+          "title": "삼성국제기능경기대회",
+          "subTitle": "전사 임직원 대상 기술경진대회 진행",
+          "date": "2014.4월, 2015.4월",
+          "keywords": [
+            "Event",
+            "Staff"
+          ],
+          "role": "스태프 (5명)",
+          "teamMember": 8,
+          "team": [
+            "PM",
+            "PL (해외)",
+            "PL (국내)",
+            "스태프 (5명)"
+          ],
+          "result": "",
+          "taskList": [
+            "해외 임직원 관리 (입출국 일정 관리, 비자)",
+            "해외 임직원 한국 전통 문화 관광 기획"
+          ],
+          "refList": [
+            {
+              "link": "https://news.samsung.com/kr/tag/%EC%82%BC%EC%84%B1%EA%B5%AD%EC%A0%9C%EA%B8%B0%EB%8A%A5%EA%B2%BD%EA%B8%B0%EB%8C%80%ED%9A%8C",
+              "title": "삼성그룹 뉴스룸 기사"
+            }
+          ],
+          "imgList": []
+        },
+        {
+          "order": 4,
+          "key": "samsung-hr-project-4",
+          "title": "조직 문화 개선 CA",
+          "subTitle": "조직 문화 평가 지표 개선",
+          "date": "2014.1 ~ 2015.8",
+          "keywords": [
+            "조직 문화",
+            "Great Work Place"
+          ],
+          "role": "Change Agent",
+          "team": [
+            "Change Agent"
+          ],
+          "teamMember": null,
+          "result": "조직 문화 평가 지표 개선",
+          "taskList": [
+            "월별 조직 문화 행사 기획/운영",
+            "더 나은 근무 환경 만들기 캠페인 활동"
+          ],
+          "refList": [],
+          "imgList": []
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "logoSrc": "/svg/samsung-logo.svg",
+      "logoAlt": "samsung-logo",
+      "company": "삼성전자",
+      "department": "VD사업부 글로벌운영팀",
+      "position": "CL2 프로",
+      "joinDate": "2015.9",
+      "exitDate": "2018.7",
+      "tag": [
+        {
+          "order": 1,
+          "text": "S/W Engineer"
+        },
+        {
+          "order": 2,
+          "text": "System Admin"
+        },
+        {
+          "order": 3,
+          "text": "S/W Certi PRO"
+        }
+      ],
+      "projects": [
+        {
+          "order": 1,
+          "key": "samsung-vd-project-1",
+          "title": "백오피스 웹 S/W 개발",
+          "subTitle": "주간 보고, 프로젝트 일정 관리 디지털화",
+          "date": "2015.10 ~ 2016.3",
+          "keywords": [
+            "ASP.NET",
+            "MariaDB",
+            "jQuery"
+          ],
+          "role": "개발자",
+          "team": [
+            "PM",
+            "개발자"
+          ],
+          "teamMember": null,
+          "result": "업무 취합 업무 간소화/업무 보고 시스템화",
+          "taskList": [
+            "주간 보고/프로젝트 관리 업무 DB 구축",
+            "사내 SSO 인증 시스템 연동",
+            "서버 API/Web App 개발",
+            "Mailing 및 리포팅 시스템 구축"
+          ],
+          "refList": [],
+          "imgList": []
+        },
+        {
+          "order": 2,
+          "key": "samsung-vd-project-2",
+          "title": "MES 관제 모니터링 시스템",
+          "subTitle": "해외 법인 데이터 수집/모니터링 S/W",
+          "date": "2016.3 ~ 2016.12",
+          "keywords": [
+            "ASP.NET",
+            "MariaDB",
+            "jQuery",
+            "Kendo UI"
+          ],
+          "role": "개발자(S/W)",
+          "team": [
+            "PM",
+            "개발자(S/W)",
+            "개발자(H/W)",
+            "개발자(IoT)"
+          ],
+          "teamMember": null,
+          "result": "",
+          "taskList": [
+            "모니터링 업무 분석 및 DB 구축",
+            "타 시스템 데이터 동기화 프로그램 작성",
+            "서버 API/Web App 개발"
+          ],
+          "refList": [],
+          "imgList": []
+        },
+        {
+          "order": 3,
+          "key": "samsung-vd-project-3",
+          "title": "KPI 데이터 리포팅 S/W 개발",
+          "subTitle": "필요 지표 분석 및 리포팅 도구 개발",
+          "date": "2017.3 ~ 2017.10",
+          "keywords": [
+            "ASP.NET",
+            "Reporting",
+            "Windows"
+          ],
+          "role": "개발자",
+          "team": [
+            "업무 담당자",
+            "개발자"
+          ],
+          "teamMember": null,
+          "result": "5명 3개월 작업 → 3명 1개월 작업",
+          "taskList": [
+            "담당자 설계 로직 프로그램화",
+            "Excel 리포팅 S/W 개발",
+            "서버/Windows App 개발"
+          ],
+          "refList": [],
+          "imgList": []
+        },
+        {
+          "order": 4,
+          "key": "samsung-vd-project-4",
+          "title": "사내 시스템 운영/유지보수",
+          "subTitle": "사내 시스템 운영 관리",
+          "date": "2017.11 ~ 2018.7",
+          "keywords": [
+            "Server Administrator",
+            "Trouble Shooting"
+          ],
+          "role": "시스템 관리자",
+          "team": [
+            "시스템 관리자"
+          ],
+          "teamMember": null,
+          "result": "",
+          "taskList": [
+            "시스템 운영/관리",
+            "시스템 이슈 트러블슈팅"
+          ],
+          "refList": [],
+          "imgList": []
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "logoSrc": "/svg/innorules-logo.svg",
+      "logoAlt": "innorules-logo",
+      "company": "이노룰스",
+      "department": "기술연구소 AI팀",
+      "position": "선임 연구원",
+      "joinDate": "2020.10",
+      "exitDate": "2022.4",
+      "tag": [
+        {
+          "order": 1,
+          "text": "Web F/E Engineer"
+        }
+      ],
+      "projects": [
+        {
+          "order": 1,
+          "key": "innorules-ai-project-1",
+          "title": "RPA 솔루션 개발",
+          "subTitle": "이미지 기반 UI 인식 업무 자동화 S/W",
+          "date": "2020.10 ~ 2021.5",
+          "keywords": [
+            "koa2",
+            "electron",
+            "vue.js",
+            "python",
+            "mongoDB"
+          ],
+          "role": "개발자(2명)",
+          "team": [
+            "PM",
+            "리드 개발자",
+            "개발자(2명)",
+            "AI 엔지니어"
+          ],
+          "teamMember": 5,
+          "result": "",
+          "taskList": [
+            "App 성능 최적화 및 기능 고도화",
+            "Max/Linux 구동 환경 구축 및 트러블 슈팅",
+            "TTA 인증 시험 업무 지원"
+          ],
+          "refList": [],
+          "imgList": []
+        },
+        {
+          "order": 2,
+          "key": "innorules-ai-project-2",
+          "title": "Web UI 컴포넌트 개발",
+          "subTitle": "사용자 상호작용 Flowchart 작성 라이브러리 개발",
+          "date": "2021.6 ~ 2021.10",
+          "keywords": [
+            "d3",
+            "UI Component",
+            "typescript",
+            "svg"
+          ],
+          "role": "UI 엔지니어",
+          "team": [
+            "UI 엔지니어",
+            "웹 제품 개발자"
+          ],
+          "teamMember": null,
+          "taskList": [
+            "유저와 상호작용하여 플로우차트 작성 컴포넌트",
+            "타입(d.ts)을 제공하여 개발자 경험 개선",
+            "undo, copy, zoom-in 등 사용자 편의성 기능 개발"
+          ],
+          "refList": [
+            {
+              "link": "https://lee-gyu.github.io/storybook/?path=/story/js-components-flowchart--basic",
+              "title": "Flowchart Demo 링크"
+            }
+          ],
+          "imgList": []
+        },
+        {
+          "order": 4,
+          "key": "innorules-ai-project-3",
+          "title": "웹 제품 UI 디자인 표준화",
+          "subTitle": "UI 스타일 표준화 및 CSS/JS 개발 가이드",
+          "date": "2021.10 ~ 2022.4",
+          "keywords": [
+            "js-library",
+            "html/css",
+            "typescript"
+          ],
+          "role": "UI 엔지니어",
+          "team": [
+            "제품 디자이너",
+            "UI 엔지니어",
+            "퍼블리셔",
+            "웹 제품 개발자(2명)"
+          ],
+          "teamMember": 5,
+          "taskList": [
+            "Figma를 통한 디자이너 협업 환경",
+            "신규 디자인 UI HTML/CSS 가이드",
+            "svg → 웹 아이콘 CSS 빌드 도구 개발",
+            "개발자용 storybook 제공 및 LiveEditor 개발"
+          ],
+          "refList": [
+            {
+              "link": "https://lee-gyu.github.io/storybook/",
+              "title": "Storybook 링크"
+            },
+            {
+              "link": "https://lee-gyu.github.io/storybook/?path=/story/html-components-icon--list",
+              "title": "Icon CSS 참조 페이지"
+            }
+          ],
+          "imgList": []
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "logoSrc": "/svg/innorules-logo.svg",
+      "logoAlt": "innorules-logo",
+      "company": "이노룰스",
+      "department": "기술연구소 제품기술팀",
+      "position": "선임 연구원",
+      "joinDate": "2022.5",
+      "exitDate": "현재",
+      "tag": [
+        {
+          "order": 1,
+          "text": "Web F/E Lead"
+        },
+        {
+          "order": 2,
+          "text": "S/W Engineer"
+        },
+        {
+          "order": 3,
+          "text": "System Admin"
+        }
+      ],
+      "projects": [
+        {
+          "order": 1,
+          "key": "innorules-tech-project-1",
+          "title": "웹 UI 라이브러리 고도화",
+          "subTitle": "Vanilla 환경 UI 컴포넌트 개발",
+          "date": "2022.5 ~ 현재",
+          "keywords": [
+            "js-library",
+            "storybook",
+            "typescript"
+          ],
+          "role": "UI 엔지니어",
+          "team": [
+            "제품 디자이너",
+            "UI 엔지니어",
+            "웹 제품 개발자(2명)"
+          ],
+          "teamMember": 4,
+          "taskList": [
+            "회사 제품에 필요한 UI 컴포넌트 개발",
+            "크로스 브라우징 이슈 트러블 슈팅"
+          ],
+          "refList": [
+            {
+              "link": "https://lee-gyu.github.io/storybook/?path=/story/js-components-grid--cell-renderer",
+              "title": "Grid 컴포넌트"
+            },
+            {
+              "link": "https://lee-gyu.github.io/storybook/?path=/story/js-components-editor--db-rule",
+              "title": "Editor 컴포넌트"
+            }
+          ],
+          "imgList": []
+        },
+        {
+          "order": 2,
+          "key": "innorules-tech-project-2",
+          "title": "백오피스 웹 서비스 개발/운영",
+          "subTitle": "임직원 일정/프로젝트 투입 실적 관리",
+          "date": "2022.7 ~ 2022.12",
+          "keywords": [
+            "next.js",
+            "nest.js",
+            "System Administrator"
+          ],
+          "role": "리드 개발자",
+          "team": [
+            "리드 개발자",
+            "주니어 개발자"
+          ],
+          "teamMember": null,
+          "taskList": [
+            "기존 사내 인프라 시스템 연동 (jwt)",
+            "nest.js + typeorm 기반 DB 시스템 연계",
+            "모바일/PC 반응형 레이아웃 스타일",
+            "개발/운영 분리 및 CI/CD 환경 개발"
+          ],
+          "refList": [],
+          "imgList": []
+        },
+        {
+          "order": 3,
+          "key": "innorules-tech-project-3",
+          "title": "App 인증/제품 전환 포털",
+          "subTitle": "사내 제품 사용자 인증 및 제품 전환 표준화",
+          "date": "2023.1 ~ 2023.3",
+          "keywords": [
+            "react",
+            "vite",
+            "typescript"
+          ],
+          "role": "리드 개발자",
+          "team": [
+            "제품 디자이너",
+            "리드 개발자",
+            "웹 제품 개발자 (2명)"
+          ],
+          "teamMember": 4,
+          "taskList": [
+            "제품 Entry 동적 호출 기능 개발",
+            "적용 가이드 및 트러블슈팅 지원"
+          ],
+          "refList": [],
+          "imgList": []
+        },
+        {
+          "order": 4,
+          "key": "innorules-tech-project-4",
+          "title": "React 라이브러리",
+          "subTitle": "디자인 시스템 기반 React 라이브러리",
+          "date": "2023.4 ~",
+          "keywords": [
+            "design-system",
+            "react",
+            "ui-library",
+            "typescript"
+          ],
+          "role": "리드 개발자",
+          "team": [
+            "제품 디자이너",
+            "리드 개발자",
+            "주니어 개발자"
+          ],
+          "teamMember": 3,
+          "taskList": [
+            "사내 react UI 라이브러리 개발",
+            "storybook7 기반 문서화 환경 구축"
+          ],
+          "refList": [],
+          "imgList": []
+        }
+      ]
+    }
+  ],
+  "workExperiences": [],
+  "awards": [
+    {
+      "date": "2015-12",
+      "title": "국가인재개발 고용노동부 장관 표창",
+      "description": ""
+    },
+    {
+      "date": "2015-12",
+      "title": "국가인재개발 고용노동부 장관 표창",
+      "description": ""
+    },
+    {
+      "order": "2013-12",
+      "title": "대한민국 동탑산업훈장 수여",
+      "description": ""
+    },
+    {
+      "order": "2013-7",
+      "title": "2013 WorldSkills IT 분야 1위 금메달 수상",
+      "description": ""
+    }
+  ]
+}

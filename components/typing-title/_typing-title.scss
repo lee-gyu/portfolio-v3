@@ -1,0 +1,8 @@
+.typing-title {
+  @apply text-3xl;
+
+  &__keyword {
+    @apply font-bold
+      ml-2;
+  }
+}

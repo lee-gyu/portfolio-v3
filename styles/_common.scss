@@ -1,0 +1,8 @@
+a {
+  @apply transition-opacity
+    hover:opacity-80;
+
+  &:active {
+    @apply opacity-50;
+  }
+}

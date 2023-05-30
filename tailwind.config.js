@@ -2,7 +2,7 @@ const screenValue = {
   // [breakpoint, max-width]
   mobile: [480, 600],
   tablet: [600, 900],
-  desktop: [1200, 1440],
+  desktop: [1200, 1200],
 };
 
 const screens = Object.fromEntries( Object.entries(screenValue).map( ([key, value]) => [key, `${value[0]}px`] ) );

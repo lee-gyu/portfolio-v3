@@ -6,3 +6,5 @@
   - Tailwindcss with DaisyUI
   - Good web accessibility / Semantic HTML
   - More detailed project works with mdx
+  - Applying `next-intl` for i18n
+  - Toggling light / dark mode

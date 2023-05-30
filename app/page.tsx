@@ -1,5 +1,9 @@
+import { TypingTitle } from "components/typing-title";
+
+
+
 export default function MainPage() {
-  return (
-      <div>Body</div>
-  )
+  return <>
+    <TypingTitle keywords={[]} text="Programming"/>
+  </>
 }

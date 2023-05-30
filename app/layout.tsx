@@ -1,4 +1,5 @@
-import { AppHeader } from "components/app-header";
+import { App } from "components/app";
+
 
 import "styles/index.scss";
 
@@ -18,12 +19,9 @@ export default function RootLayout({
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
       </head>
       <body>
-        <div className="app">
-          <AppHeader/>
-          <main className="app-main">
-            {children}
-          </main>
-        </div>
+        <App>
+          {children}
+        </App>
         </body>
     </html>
   )

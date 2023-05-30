@@ -35,8 +35,11 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "clsx": "^1.2.1",
     "daisyui": "^2.51.6",
+    "next-intl": "^2.14.6",
     "react": "^18.2.0",
-    "react-icons": "^4.9.0"
+    "react-icons": "^4.9.0",
+    "react-intersection-observer": "^9.4.3"
   }
 }

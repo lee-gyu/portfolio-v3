@@ -6,11 +6,6 @@
     desktop:max-w-desktop;
 }
 
-.app-header {
-  @apply flex
-    items-center
-    px-2
-    py-1.5
-    text-white
-    gap-2;
+.app-main {
+  @apply mt-6;
 }

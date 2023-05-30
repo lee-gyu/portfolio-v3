@@ -1,0 +1,18 @@
+.app-header {
+  @apply sticky
+    top-0
+    flex
+    items-center
+    pl-1
+    pr-1.5
+    py-1.5
+    text-white
+    gap-2
+    border-b;
+
+  &__action-buttons {
+    @apply ml-auto
+      flex
+      gap-x-3;
+  }
+}
