@@ -1,3 +1,11 @@
+:root {
+  @apply bg-base-100;
+}
+
+html[data-theme="corporate"] {
+  @apply text-slate-600;
+}
+
 a {
   @apply transition-opacity
     hover:opacity-80;

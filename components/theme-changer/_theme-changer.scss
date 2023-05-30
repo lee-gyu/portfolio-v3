@@ -1,0 +1,15 @@
+.theme-changer {
+  @apply flex
+    cursor-pointer
+    gap-x-2
+    items-center
+    transition-opacity;
+
+  &:hover {
+    @apply opacity-50;
+  }
+
+  > .toggle {
+    @apply rounded-full;
+  }
+}

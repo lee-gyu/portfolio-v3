@@ -4,6 +4,7 @@ import profile from "data/profile.json"
 import { BsFileCodeFill } from "react-icons/bs"
 
 import { ActionButtonGroups } from "components/app/action-btn-group";
+import { ThemeChanger } from "components/theme-changer";
 
 export const AppHeader = memo(() => {
   return (
@@ -15,6 +16,7 @@ export const AppHeader = memo(() => {
       </div>
       
       <div className="app-header__action-buttons">
+        <ThemeChanger/>
         <ActionButtonGroups size={28}/>
       </div>
     </header>

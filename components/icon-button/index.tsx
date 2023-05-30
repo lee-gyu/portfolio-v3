@@ -4,7 +4,7 @@ import { ButtonHTMLAttributes, PropsWithChildren } from "react";
 
 type IconButtonProps = ButtonHTMLAttributes<HTMLButtonElement>;
 
-export function IconButton( props: PropsWithChildren<IconButtonProps>, ref?: React.ForwardedRef<HTMLButtonElement> ) {
+export function IconButton( props: PropsWithChildren<IconButtonProps>) {
   const { 
     children,
     className,
@@ -12,7 +12,7 @@ export function IconButton( props: PropsWithChildren<IconButtonProps>, ref?: Rea
   } = props;
 
   return (
-    <button ref={ref} className={clsx("icon-button", className)}
+    <button className={clsx("icon-button", className)}
       {...restProps}>{children}</button>
   )
 }
